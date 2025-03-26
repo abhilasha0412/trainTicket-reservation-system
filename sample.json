@@ -1,0 +1,39 @@
+[
+    {
+      "passengerName": "Alice Johnson",
+      "phoneNumber": "1234567890",
+      "trainNumber": "T123",
+      "seatNumber": "A1",
+      "travelClass": "First Class",
+      "duration": 4,
+      "journeyDate": "2025-01-20T08:00:00.000Z",
+      "bookingDate": "2025-01-18T00:00:00.000Z",
+      "farePerHour": 100,
+      "totalFare": 400
+    },
+    {
+      "passengerName": "Michael Smith",
+      "phoneNumber": "9876543210",
+      "trainNumber": "T456",
+      "seatNumber": "B5",
+      "travelClass": "Economy",
+      "duration": 6,
+      "journeyDate": "2025-01-19T14:30:00.000Z",
+      "bookingDate": "2025-01-17T00:00:00.000Z",
+      "farePerHour": 100,
+      "totalFare": 600
+    },
+    {
+      "passengerName": "Emma Brown",
+      "phoneNumber": "4567891230",
+      "trainNumber": "T789",
+      "seatNumber": "C10",
+      "travelClass": "Business",
+      "duration": 3,
+      "journeyDate": "2025-01-18T10:00:00.000Z",
+      "bookingDate": "2025-01-16T00:00:00.000Z",
+      "farePerHour": 100,
+      "totalFare": 300
+    }
+  ]
+  
