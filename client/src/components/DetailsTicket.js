@@ -29,7 +29,7 @@ const StyledPaper = styled(Paper)(({ theme }) => ({
   boxShadow: theme.shadows[3],
 }));
 
-const TicketDetails = () => {
+const DetailsTicket = () => {
   const [ticket, setTicket] = useState({});
   const [openDialog, setOpenDialog] = useState(false);
   const { id } = useParams();
@@ -127,4 +127,4 @@ const TicketDetails = () => {
   );
 };
 
-export default TicketDetails;
+export default DetailsTicket;
